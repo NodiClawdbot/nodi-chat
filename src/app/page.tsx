@@ -25,6 +25,9 @@ export default function Home() {
       <p>
         <Link href="/chat">Öppna chat →</Link>
       </p>
+      <p>
+        <Link href="/local-tools">Local tools →</Link>
+      </p>
     </main>
   );
 }
